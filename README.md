@@ -48,7 +48,7 @@
     I create this contract from scratch, built on ERC1155 from OppenZeppelin.
     I used interfaces to make code more clean and more reusable.
     All functions in the smart contract are explained using comments (I tried the max ^^').
-    Please, if you have a question, contact me on : DS = Mowgli#7713 or TG = @mowgli_9.
+    Please, if you have a question, contact me on : alpinist.jacklee@gmail.com
     Smart contract passed 33 different test.
     
  ![This is an image](test/READMEIMG/alltestnoy2.PNG)
